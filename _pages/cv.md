@@ -16,8 +16,7 @@ Education
 
 Work experience
 ======
-* Summer 2020: Research Assistant
-  * Shanghai Jiao Tong University University
+* Summer 2020: Research Assistant at Shanghai Jiao Tong University University
   * Research topic: multi-robot virtual-physical interaction system
   * Supervisor: Professor Jianping He
   
