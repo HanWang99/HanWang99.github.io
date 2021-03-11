@@ -10,3 +10,4 @@ paperurl: 'http://academicpages.github.io/files/Moving-Obstacle-Avoidance-and-To
 This paper is about multi-robot moving obstacle avoidance and graph topology problem.
 
 [Download paper here](http://academicpages.github.io/files/Moving-Obstacle-Avoidance-and-Topology.pdf)
+Recommended citation: Han Wang, (2019). "Moving Obstacle Avoidance and Topology Recovery for Multi-agent Systems" <i>American Control Conference</i>. 1(2).
